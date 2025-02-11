@@ -36,7 +36,9 @@ Welcome to **GoalZilla** — the ultimate milestone-based crowdfunding platform 
 1. **Discover Projects**: Explore innovative campaigns built on Telos.  
 2. **Launch Your Campaign**: Set your goals and milestones to begin fundraising.  
 3. **Engage the Community**: Gather feedback, showcase progress, and celebrate achievements.  
-
+  
+---  
+**contract details**: https://edu-chain-testnet.blockscout.com/address/0xb5513e201516ab33ed52c918501980ab875b63d4
 ---  
 
 ## 🛠️ How to Use  
