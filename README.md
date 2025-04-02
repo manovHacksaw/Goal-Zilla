@@ -62,7 +62,7 @@ Welcome to **GoalZilla** — the ultimate milestone-based crowdfunding platform 
 5. **Open in Browser**:  
    Navigate to `http://localhost:3000` to explore GoalZilla.  
 6. **Deploy**: Follow the deployment instructions in the repository to go live.  
-7. **Smart Contract on EDU Chain Testnet**: [View on Teloscan](https://testnet.teloscan.io/address/0x7144Da8697ec83F9f820460C6498DcA90fF20901)  
+7. **Smart Contract on EDU Chain Testnet**: [View ](https://edu-chain-testnet.blockscout.com/address/0xb5513e201516ab33ed52c918501980ab875b63d4)  
 
 ---  
 
