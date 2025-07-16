@@ -38,7 +38,7 @@ Welcome to **GoalZilla** — the ultimate milestone-based crowdfunding platform 
 3. **Engage the Community**: Gather feedback, showcase progress, and celebrate achievements.  
   
 ---  
-**contract details**: https://BNB-chain-testnet.blockscout.com/address/0xb5513e201516ab33ed52c918501980ab875b63d4
+**contract details**: https://testnet.bscscan.com/address/0xfa80583757AaE278b0849B815A3A19bd5285d311
 ---  
 
 ## 🛠️ How to Use  
