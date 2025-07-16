@@ -1,13 +1,13 @@
 # GoalZilla 🚀🐲  
 
-Welcome to **GoalZilla** — the ultimate milestone-based crowdfunding platform on **EDU Chain**! 🎯 Whether you're funding creative projects, community initiatives, or bold ideas, GoalZilla ensures **transparency, accountability, and efficiency** with the power of **EDU Chain technology**. Let’s bring your goals to life! 🎉  
+Welcome to **GoalZilla** — the ultimate milestone-based crowdfunding platform on **BNB Chain**! 🎯 Whether you're funding creative projects, community initiatives, or bold ideas, GoalZilla ensures **transparency, accountability, and efficiency** with the power of **BNB Chain technology**. Let’s bring your goals to life! 🎉  
 
 ---  
 
-## 🏆 Why Choose GoalZilla on EDU?  
+## 🏆 Why Choose GoalZilla on BNB?  
 
 💰 **Milestone-Based Funding**: Funds are released in phases, ensuring accountability at every step.  
-🔒 **EDU Security**: Enjoy fast, feeless transactions and robust security features with EDU Chain.  
+🔒 **BNB Security**: Enjoy fast, feeless transactions and robust security features with BNB Chain.  
 👥 **Community-Powered Decisions**: Transparent voting mechanisms ensure fairness and trust.  
 📈 **Reputation Growth**: Build credibility for future campaigns and long-term success.  
 
@@ -38,7 +38,7 @@ Welcome to **GoalZilla** — the ultimate milestone-based crowdfunding platform 
 3. **Engage the Community**: Gather feedback, showcase progress, and celebrate achievements.  
   
 ---  
-**contract details**: https://edu-chain-testnet.blockscout.com/address/0xb5513e201516ab33ed52c918501980ab875b63d4
+**contract details**: https://BNB-chain-testnet.blockscout.com/address/0xb5513e201516ab33ed52c918501980ab875b63d4
 ---  
 
 ## 🛠️ How to Use  
@@ -62,11 +62,11 @@ Welcome to **GoalZilla** — the ultimate milestone-based crowdfunding platform 
 5. **Open in Browser**:  
    Navigate to `http://localhost:3000` to explore GoalZilla.  
 6. **Deploy**: Follow the deployment instructions in the repository to go live.  
-7. **Smart Contract on EDU Chain Testnet**: [View ](https://edu-chain-testnet.blockscout.com/address/0xb5513e201516ab33ed52c918501980ab875b63d4)  
+7. **Smart Contract on BNB Chain Testnet**: [View ](https://BNB-chain-testnet.blockscout.com/address/0xb5513e201516ab33ed52c918501980ab875b63d4)  
 
 ---  
 
 ## 🌟 Join the GoalZilla Movement  
 
-Let’s shape the future of crowdfunding with **EDU Chain**! Whether you’re a creator with a vision or a donor looking to make an impact, GoalZilla provides the tools to make it happen. 🐲💫
+Let’s shape the future of crowdfunding with **BNB Chain**! Whether you’re a creator with a vision or a donor looking to make an impact, GoalZilla provides the tools to make it happen. 🐲💫
 

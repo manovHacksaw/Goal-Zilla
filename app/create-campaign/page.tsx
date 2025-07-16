@@ -273,7 +273,7 @@ export default function CreateCampaign() {
               </div>
               <div>
                 <label htmlFor="goal" className="block text-sm font-medium text-gray-700 mb-1">
-                  Funding Goal (EDU )
+                  Funding Goal (BNB )
                 </label>
                 <Input
                   type="number"
@@ -287,7 +287,7 @@ export default function CreateCampaign() {
                   className={`w-full border-2 border-indigo-600 focus:ring-2 focus:ring-purple-400 focus:border-purple-400 transition-colors`}
                 />
                 <p className="text-xs text-gray-500 mt-1">
-                  Enter the total amount of EDU you want to raise for this campaign.
+                  Enter the total amount of BNB you want to raise for this campaign.
                 </p>
               </div>
               <div>
@@ -365,7 +365,7 @@ export default function CreateCampaign() {
                         </p>
                       </div>
                       <div className="flex-1">
-                        <label className="text-xs text-gray-500 mb-1 block">Target Amount (EDU )</label>
+                        <label className="text-xs text-gray-500 mb-1 block">Target Amount (BNB )</label>
                         <Input
                           type="number"
                           placeholder="0.00"
@@ -377,7 +377,7 @@ export default function CreateCampaign() {
                           className={`border-2 border-indigo-600 focus:ring-2 focus:ring-purple-400 focus:border-purple-400 transition-colors`}
                         />
                         <p className="text-xxs text-gray-500 mt-1">
-                          The amount of EDU needed to achieve this milestone. Total should equal your Funding Goal.
+                          The amount of BNB needed to achieve this milestone. Total should equal your Funding Goal.
                         </p>
                       </div>
                       <Button
