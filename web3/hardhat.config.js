@@ -33,6 +33,12 @@ module.exports = {
       url: "http://127.0.0.1:8545", // Local testing with Hardhat/Ganache
       chainId: 31337,
     },
+    bnbTestnet:{
+      url: "https://bsc-testnet-rpc.publicnode.com",
+      accounts: [`0xa0a40822d380391d9709c85f743bf0ce4b0a0275ffed62367d3b89b4c9c673be`],
+      chainId: 97, // BNB Smart Chain Testnet
+    },
+
     hardhat: {
       chainId: 1337, // Internal Hardhat network
     },
